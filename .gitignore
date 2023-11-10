@@ -1,0 +1,10 @@
+.idea
+build
+resources/outputs
+resources/models
+*.egg-info
+envs
+src/dataAccessObjects/__pycache__
+src/drivers/__pycache__
+src/transformers/__pycache__
+src/utils/__pycache__
