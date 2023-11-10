@@ -2,6 +2,7 @@
 build
 resources/outputs
 resources/models
+resources/inputs/
 *.egg-info
 envs
 src/dataAccessObjects/__pycache__
