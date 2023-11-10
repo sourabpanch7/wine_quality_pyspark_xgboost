@@ -1,0 +1,11 @@
+{
+  "app_name_train": "wine train",
+  "app_name_predict": "wine predict",
+  "ip_path": "resources/inputs/winequality-red.csv",
+  "label_col": "category",
+  "train_ratio": 0.7,
+  "validation_metric": "accuracy",
+  "model_path": "resources/models/wine-xgb-classifier",
+  "predict_data_path": "resources/inputs/wine_pred.csv",
+  "inference_op_path": "resources/outputs/wine_inference"
+}
