@@ -28,6 +28,11 @@ https://docs.anaconda.com/anaconda/install/index.html
 
    "conda activate **<env_name>**"
 
+**_Note_** : You can refer to **_"conda_env/environment.yml"_** for a sample conda environment. It can be used to create
+a new environment ,using the below command.
+
+"conda env create --file=conda_env/environment.yml"
+
 2. Package the environment using the below command.
 
    "conda pack -f -o **<env_path>**"
