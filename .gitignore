@@ -1,11 +1,6 @@
 .idea
-build
 resources/outputs
 resources/models
 resources/inputs/
-*.egg-info
-envs
-src/dataAccessObjects/__pycache__
-src/drivers/__pycache__
-src/transformers/__pycache__
-src/utils/__pycache__
+src/
+
